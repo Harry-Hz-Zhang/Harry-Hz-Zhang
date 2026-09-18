@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Hz</h2>
+<h2 align="center">Hi 👋, I'm Harry</h2>
 
 <p align="center">
   🏆 <b>ACM / ICPC Competitor</b> &nbsp;|&nbsp; 🤖 <b>AI Agent Developer</b> (LangGraph / Eino) &nbsp;|&nbsp; ⚡ <b>Backend Systems Engineer</b>
