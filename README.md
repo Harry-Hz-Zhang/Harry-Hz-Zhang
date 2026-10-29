@@ -1,31 +1,52 @@
 <h2 align="center">Hi 👋, I'm Harry</h2>
 
 <p align="center">
-  🏆 <b>ACM / ICPC Competitor</b> &nbsp;|&nbsp; 🤖 <b>AI Agent Developer</b> (LangGraph / Eino) &nbsp;|&nbsp; ⚡ <b>Backend Systems Engineer</b>
+  🏆 <b>ACM / ICPC Competitor</b> &nbsp;|&nbsp; 🤖 <b>AI Agent Developer</b> &nbsp;|&nbsp; ⚡ <b>Backend Systems Engineer</b>
 </p>
 
 💻 **Technology Stack**
 
 ![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-darkblue?style=for-the-badge&logo=gin&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-5C2D91?style=for-the-badge&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Eino](https://img.shields.io/badge/Eino-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A4E4?style=for-the-badge&logo=zilliz&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-darkblue?style=for-the-badge&logo=gin&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-5C2D91?style=for-the-badge&logo=databricks&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A4E4?style=for-the-badge&logo=zilliz&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Pi](https://img.shields.io/badge/Pi-6C5CE7?style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Redis Stack](https://img.shields.io/badge/Redis_Stack-C0392B?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![StarRocks](https://img.shields.io/badge/StarRocks-2D6AE3?style=for-the-badge)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+🔎 **RAG & Retrieval**
+
+![HNSW](https://img.shields.io/badge/HNSW-4B8BBE?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-1F6FEB?style=for-the-badge)
+![IDF](https://img.shields.io/badge/IDF-6C5CE7?style=for-the-badge)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-00A4E4?style=for-the-badge)
+![Rerank](https://img.shields.io/badge/Rerank-E17055?style=for-the-badge)
+![Embedding](https://img.shields.io/badge/Embedding-8E44AD?style=for-the-badge)
 
 📐 **Algorithms & CP**
 
