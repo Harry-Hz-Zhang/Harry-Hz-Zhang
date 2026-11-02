@@ -32,15 +32,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-🔎 **RAG & Retrieval**
-
-![HNSW](https://img.shields.io/badge/HNSW-4B8BBE?style=for-the-badge)
-![BM25](https://img.shields.io/badge/BM25-1F6FEB?style=for-the-badge)
-![IDF](https://img.shields.io/badge/IDF-6C5CE7?style=for-the-badge)
-![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-00A4E4?style=for-the-badge)
-![Rerank](https://img.shields.io/badge/Rerank-E17055?style=for-the-badge)
-![Embedding](https://img.shields.io/badge/Embedding-8E44AD?style=for-the-badge)
-
 📐 **Algorithms & CP**
 
 ![DP](https://img.shields.io/badge/DP-FF6F61?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -48,5 +39,8 @@
 ![Shortest Path](https://img.shields.io/badge/Shortest_Path-00CEC9?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Network Flow](https://img.shields.io/badge/Network_Flow-E17055?style=for-the-badge&logo=git&logoColor=white)
 ![Segment Tree & BIT](https://img.shields.io/badge/Segment_Tree_%26_BIT-0984E3?style=for-the-badge&logo=tree&logoColor=white)
+![HNSW](https://img.shields.io/badge/HNSW-4B8BBE?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-1F6FEB?style=for-the-badge)
+![IDF](https://img.shields.io/badge/IDF-6C5CE7?style=for-the-badge)
 
 
